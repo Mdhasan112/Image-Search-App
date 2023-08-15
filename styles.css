@@ -83,6 +83,7 @@ form {
   display: block;
   padding: 10px;
   text-transform: capitalize;
+  text-align: center;
 }
 #show-more-btn {
   padding: 10px 20px;
