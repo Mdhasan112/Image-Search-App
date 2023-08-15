@@ -112,4 +112,10 @@ form {
   .search-image {
     width: 100%;
   }
+  h1 {
+    font-size: 30px;
+  }
+  #search-input {
+    width: 50%;
+  }
 }
