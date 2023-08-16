@@ -5,7 +5,7 @@ const inputEl = document.querySelector("#search-input");
 const searchResult = document.querySelector(".search-images");
 const showMoreBtn = document.querySelector("#show-more-btn");
 
-let inputResult = "";
+let inputData = "";
 let page = 1;
 
 async function searchImages() {
